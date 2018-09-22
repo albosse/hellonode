@@ -1,0 +1,12 @@
+{
+  "name": "learn-travis-alex",
+  "description": "Simple Travis-CI check for JSHint (Code Linting)",
+  "author": "Alexander Bosse",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "scripts": {
+    "test": "jshint server.js"
+  }
+}
