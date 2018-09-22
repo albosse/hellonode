@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/albosse/hellonode.svg?branch=master)](https://travis-ci.org/albosse/hellonode)
+
 # hellonode
 Hellonode is just a sample project
 
